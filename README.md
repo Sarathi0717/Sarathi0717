@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm SARATHI M
 
-<!--
-**Sarathi0717/Sarathi0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ohitzdhanush&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+---
+## 📞 Contact Information
 
-Here are some ideas to get you started:
+* 📧 Email: **[madheshsarathi3@gmail.com](mailto:madheshsarathi3@gmail.com)**
+* 📱 Phone: **+91 8754885075**
+* 🔗 LinkedIn: **https://www.linkedin.com/in/sarathi-madhesh-6562aa39a**
+* 🔗 Portfolio: **(https://sarathi-0705.lovable.app/)**
+* 📍 Location: Bengaluru, Karnataka, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+* ⚡ Fun Fact: I enjoy turning new ideas into full-stack applications.
+--- 
+
+## Languages and Tools:
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel" />
+</p>
+
+### ⭐ Code • Learn • Build • Repeat ⭐
